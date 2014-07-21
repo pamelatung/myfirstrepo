@@ -18,5 +18,9 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 	}
  .box {
  	width: 50%;
+ 	font-family: 'Helvetica Neue', 'Arial', sans-serif;
+ 	font-size: 14px;
+ 	letter-spacing: 1px;
  	background: blue;
+ 	color:#FFF;
  }
